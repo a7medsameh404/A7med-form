@@ -1,0 +1,23 @@
+*
+{
+    font-family: sans-serif;
+}
+.container-sign
+{
+    box-shadow: 0 5px 50px black;
+}
+.navbar
+{
+    box-shadow: 0 -5px 50px black;
+}
+.home-body
+{
+    top: 30vh;
+}
+
+.icon
+{
+    top: .7rem;
+    right: 1rem;
+    cursor: pointer;
+}
